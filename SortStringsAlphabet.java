@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+
+// If the alphabet is {"b", "bc", "aa", "c"} and the list is {"aab", "baa", "bcb", "bbc"},
+// then the sorted list will be { "bbc", "baa", "bcb", "aab"}
+
 public class SortStringsAlphabet {
 
     public static void main(String[] args) {
